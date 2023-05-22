@@ -1,31 +1,40 @@
-<h1 align="center">Hi 👋, I'm Furkan </h1>
-<h3 align="center">A passionate frontend developer from</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkan12&label=Profile%20views&color=0e75b6&style=flat" alt="furkan12" /> </p>
+## Hi, my name is Furkan
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- Developing hacking tools with C# and SQL and ASP NET MVC 
+- Exploit development
+- Cyber Security Research
 
-- 🔭 I’m currently working on **Software Developer**
+## About Me
+- :green_book: I am a Udemy Instructor
+- :mag: I'm Studying Software Specialization
+- :snake:I also know C# and Bash scripting.
+- :jack_o_lantern: I am developing Bad USB and Arduino projects
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/furkan-ayaoku-992615263/](https://www.linkedin.com/in/furkan-ayaoku-992615263/)
 
-- 💬 Ask me about **C#**
 
-- 📫 How to reach me **furkanayaoku@gmail.com**
 
-- ⚡ Fun fact **I AM FUNNNY**
+You can take my [Ethical Hacking Course][df2] or [Web Security and Bug Bounty Course][df5]                                                                                                    
+Contact Me: furkanayaoku@gmail.com
+	
+<p align="center">
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p> <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csehacademy&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/furkan ayaoku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan ayaoku" height="30" width="40" /></a>
-<a href="https://instagram.com/__frknay__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__frknay__" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan12&show_icons=true&locale=en&layout=compact" alt="furkan12" /></p>
+[//]: # 
+   [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker](https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C91BDCEC549705CC1E>
+   [df4]: <https://www.linkedin.com/in/furkan-ayaoku-992615263//>
+   [df3]: <https://twitter.com/borahidirr/>
+   [df5]: <https://www.udemy.com/course/web-security-ve-bug-bounty-sifirdan-ileri-seviyeye/?referralCode=21E95729DA08FF105E4F/>
+   
+   
+[//]: # 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan12&show_icons=true&locale=en" alt="furkan12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkan12&" alt="furkan12" /></p>
+<div align="center"><p><a href=https://www.linkedin.com/in/furkan-ayaoku-992615263/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <div align="center"><p><a href="https://twitter.com/Furkann361X"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+   <a href="https://www.instagram.com/__frknay__/?igshid=OGQ5ZDc2ODk2ZA%3D%3D"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+	   <div align="center"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
+   </div>
+   
+   ![snake svg](https://github.com/csehacademy/csehacademy/blob/output/github-contribution-grid-snake.svg)
