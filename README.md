@@ -1,40 +1,28 @@
-## Hi, my name is Furkan
+<div align="center">
+  <h1>Hello There, I'm Furkan! 🥏 </h1>
+  
+![Discord Presence](https://lanyard.cnrad.dev/api/619925060387340299)
 
-- Developing hacking tools with C# and SQL and ASP NET MVC 
-- Exploit development
-- Cyber Security Research
+<a align="center" href="https://app.daily.dev/miracim"><img src="https://api.daily.dev/devcards/004be0cf18494d00960a821b4265a8ae.png?r=i9k" width="400" alt="Furkan's Dev Card"/></a>
 
-## About Me
-- :green_book: I am a Udemy Instructor
-- :mag: I'm Studying Software Specialization
-- :snake:I also know C# and Bash scripting.
-- :jack_o_lantern: I am developing Bad USB and Arduino projects
+<a href="https://discord.com/users/619925060387340299">
+<img alt="askme" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+</a>
+<a href="https://discord.com/users/619925060387340299"><img alt="Discord" src="https://img.shields.io/badge/miracim-7289DA?style=flat&logo=discord&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=turkgenciyim"/>
+</a>
+<br/>
+<h3>I'm FullStack Developer NextJS for SSR,  AstroJS for SSG, TailwindCSS for UI ..other classic web languages. I am 22 years old and currently working in web development and social media management for a company </h3>
+<h3>Frameworks and Languages</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,astro,react,tailwindcss,express,nodejs,javascript,html,css&theme=dark" />
+<br/>
+<h3>Database and Storage Technologies</h3>
+<img src="https://skillicons.dev/icons?i=sqlite,aws,mongodb,mysql,supabase,planetscale,prisma&theme=dark" />
+<br/>
+<h3>Others</h3>
+<img src="https://skillicons.dev/icons?i=vercel,ps,devto,github,linkedin,vscode,discord&theme=dark" />
+<br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=turkgenciyim&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-You can take my [Ethical Hacking Course][df2] or [Web Security and Bug Bounty Course][df5]                                                                                                    
-Contact Me: furkanayaoku@gmail.com
-	
-<p align="center">
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=csehacademy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark&card_width=500" /></p> <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csehacademy&layout=compact&theme=dark&card_width=1000&hide_border=true" /></p>
-
-
-
-[//]: # 
-   [df2]: <https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?src=sac&kw=uygulamal%C4%B1+etik+hacker](https://www.udemy.com/course/uygulamali-etik-hacker-olma-kursu/?referralCode=A2C91BDCEC549705CC1E>
-   [df4]: <https://www.linkedin.com/in/furkan-ayaoku-992615263//>
-   [df3]: <https://twitter.com/borahidirr/>
-   [df5]: <https://www.udemy.com/course/web-security-ve-bug-bounty-sifirdan-ileri-seviyeye/?referralCode=21E95729DA08FF105E4F/>
-   
-   
-[//]: # 
-
-
-<div align="center"><p><a href=https://www.linkedin.com/in/furkan-ayaoku-992615263/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <div align="center"><p><a href="https://twitter.com/Furkann361X"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-   <a href="https://www.instagram.com/__frknay__/?igshid=OGQ5ZDc2ODk2ZA%3D%3D"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-	   <div align="center"> <img src="https://komarev.com/ghpvc/?username=csehacademy&label=Profile%20views&color=0e75b6&style=flat" alt="csehacademy" /> </p>
-   </div>
-   
-   ![snake svg](https://github.com/csehacademy/csehacademy/blob/output/github-contribution-grid-snake.svg)
